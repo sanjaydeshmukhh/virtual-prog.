@@ -6,6 +6,7 @@ import Pricing from "./components/Pricing"
 import Testimonials from "./components/Testimonials"
 import Workflow from "./components/Workflow"
 
+
 const App = () => {
   return (
     <>
